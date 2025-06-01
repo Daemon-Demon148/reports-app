@@ -10,3 +10,4 @@ transformers
 torch
 tqdm
 sentence-transformers
+python-dotenv
