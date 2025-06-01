@@ -9,3 +9,4 @@ groq
 transformers
 torch
 tqdm
+sentence-transformers
